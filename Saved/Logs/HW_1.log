@@ -1404,3 +1404,140 @@ LogConfig: CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:32768]] deferred - d
 [2025.03.14-08.47.53:465][ 49]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
 [2025.03.14-08.47.53:912][ 56]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-7yQjssP-T0uZJ-_hDSx5Xw-DNZWo082XUimTGFhhiAldQ]
 [2025.03.14-08.48.22:783][373]LogSlate: Took 0.009421 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.03.14-08.48.56:672][292]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.03.14-08.48.56:672][292]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.03.14-08.49.12:193][199]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_TrafficLightsManager.BP_TrafficLightsManager
+[2025.03.14-08.49.12:193][199]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.03.14-08.49.12:285][199]LogStreaming: Display: FlushAsyncLoading(387): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.14-08.49.13:528][199]LogSlate: Took 0.006643 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.03.14-08.49.17:374][413]LogSlate: Window 'BP_TrafficLightsManager' being destroyed
+[2025.03.14-08.49.22:327][710]LogDerivedDataCache: C:/Users/USER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.14-08.49.25:841][919]LogStreaming: Display: FlushAsyncLoading(577): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.14-08.49.25:889][919]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.03.14-08.49.29:581][108]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_TraffictLight.BP_TraffictLight
+[2025.03.14-08.49.29:581][108]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.03.14-08.49.32:196][237]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Blueprints/E_LightColor.E_LightColor
+[2025.03.14-08.50.18:857][  3]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/S_LIghtColor.S_LIghtColor
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: ================================================
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: Total job queries 1 709, among them cache hits 359 (21.01%), DDC hits 1 335 (78.12%), Duplicates 9 (0.53%)
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: Tracking 1 341 distinct input hashes that result in 1 024 distinct outputs (76.36%)
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: RAM used: 623,20 KiB of 1,60 GiB budget. Usage: 0.04%
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: Shaders Compiled: 6
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100%)
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: Average time worker was idle: 46.71 s
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.11 s
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: Job execution time: average 1.14 s, max 1.33 s
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: Job life time (pending + execution): average 1.18 s, max 1.36
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: Shader code size: average 9,445 KiB, min 8,555 KiB, max 10,32 KiB
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.73 s
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: Average processing rate: 1.61 jobs/sec
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: Total thread time: 3,721 s
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: Total thread preprocess time: 31,829 s
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: Percentage time preprocessing: 855.32%
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: Effective parallelization: 1.00 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.62 sec, max 0.83 sec, min 0.49 sec)
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display:                          TLightMapDensityVSFNoLightMapPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display:            TShadowDepthPSPixelShadowDepth_PerspectiveCorrect (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 100.00% of total time (compiled    6 times, average 0.62 sec, max 0.83 sec, min 0.49 sec)
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display:            TShadowDepthPSPixelShadowDepth_PerspectiveCorrect - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display:                                                  FHitProxyVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: === Material stats ===
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: Materials Translated:    137
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: Material Translation Only: 0.07 s (47%)
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.03.14-08.50.51:383][935]LogShaderCompilers: Display: ================================================
+[2025.03.14-08.52.16:076][  5]LogSlate: Took 0.006864 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.03.14-08.52.27:853][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.03.14-08.52.28:199][711]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.14-08.52.28:246][711]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_TrafficLightsManager] ([2] browsable assets)...
+[2025.03.14-08.52.28:247][711]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_TrafficLightsManager]
+[2025.03.14-08.52.28:247][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TrafficLightsManager" FILE="../../../../../../Skillbox/EUProjects/TrafficLightsManager/Content/Blueprints/BP_TrafficLightsManager.uasset" SILENT=true
+[2025.03.14-08.52.28:256][711]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_TrafficLightsManager
+[2025.03.14-08.52.28:257][711]LogSavePackage: Moving '../../../../../../Skillbox/EUProjects/TrafficLightsManager/Saved/BP_TrafficLightsManager1923BD9540D14A0BF4DC079365AC324D.tmp' to '../../../../../../Skillbox/EUProjects/TrafficLightsManager/Content/Blueprints/BP_TrafficLightsManager.uasset'
+[2025.03.14-08.52.28:272][711]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.602 ms
+[2025.03.14-08.52.28:318][711]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.14-08.52.28:318][711]LogContentValidation: Enabled validators:
+[2025.03.14-08.52.28:318][711]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.14-08.52.28:318][711]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.14-08.52.28:318][711]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.14-08.52.28:318][711]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.14-08.52.28:318][711]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.14-08.52.28:318][711]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.14-08.52.28:319][711]AssetCheck: /Game/Blueprints/BP_TrafficLightsManager Validating asset
+[2025.03.14-08.53.32:298][468]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 346.715485
+[2025.03.14-08.53.32:489][478]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-08.53.32:489][478]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 346.893585, Update Interval: 325.243683
+[2025.03.14-08.53.49:803][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.03.14-08.53.50:387][545]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.14-08.53.50:426][545]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_TrafficLightsManager] ([2] browsable assets)...
+[2025.03.14-08.53.50:426][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_TrafficLightsManager]
+[2025.03.14-08.53.50:426][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TrafficLightsManager" FILE="../../../../../../Skillbox/EUProjects/TrafficLightsManager/Content/Blueprints/BP_TrafficLightsManager.uasset" SILENT=true
+[2025.03.14-08.53.50:432][545]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_TrafficLightsManager
+[2025.03.14-08.53.50:432][545]LogSavePackage: Moving '../../../../../../Skillbox/EUProjects/TrafficLightsManager/Saved/BP_TrafficLightsManager9D886867437A788F89974DBE3E9422C4.tmp' to '../../../../../../Skillbox/EUProjects/TrafficLightsManager/Content/Blueprints/BP_TrafficLightsManager.uasset'
+[2025.03.14-08.53.50:441][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.198 ms (total: 125.800 ms)
+[2025.03.14-08.53.50:485][545]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.14-08.53.50:485][545]LogContentValidation: Enabled validators:
+[2025.03.14-08.53.50:485][545]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.14-08.53.50:485][545]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.14-08.53.50:485][545]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.14-08.53.50:485][545]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.14-08.53.50:485][545]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.14-08.53.50:485][545]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.14-08.53.50:485][545]AssetCheck: /Game/Blueprints/BP_TrafficLightsManager Validating asset
+[2025.03.14-08.55.35:520][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.03.14-08.55.35:970][861]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.14-08.55.36:018][861]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_TrafficLightsManager] ([2] browsable assets)...
+[2025.03.14-08.55.36:018][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_TrafficLightsManager]
+[2025.03.14-08.55.36:018][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TrafficLightsManager" FILE="../../../../../../Skillbox/EUProjects/TrafficLightsManager/Content/Blueprints/BP_TrafficLightsManager.uasset" SILENT=true
+[2025.03.14-08.55.36:022][861]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_TrafficLightsManager
+[2025.03.14-08.55.36:023][861]LogSavePackage: Moving '../../../../../../Skillbox/EUProjects/TrafficLightsManager/Saved/BP_TrafficLightsManager26257B63447566EECD47D98E83953D56.tmp' to '../../../../../../Skillbox/EUProjects/TrafficLightsManager/Content/Blueprints/BP_TrafficLightsManager.uasset'
+[2025.03.14-08.55.36:033][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.067 ms (total: 187.868 ms)
+[2025.03.14-08.55.36:079][861]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.14-08.55.36:079][861]LogContentValidation: Enabled validators:
+[2025.03.14-08.55.36:079][861]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.14-08.55.36:079][861]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.14-08.55.36:079][861]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.14-08.55.36:079][861]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.14-08.55.36:079][861]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.14-08.55.36:079][861]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.14-08.55.36:079][861]AssetCheck: /Game/Blueprints/BP_TrafficLightsManager Validating asset
+[2025.03.14-08.57.27:474][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.03.14-08.57.28:169][231]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.14-08.57.28:218][231]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_TrafficLightsManager] ([2] browsable assets)...
+[2025.03.14-08.57.28:218][231]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_TrafficLightsManager]
+[2025.03.14-08.57.28:218][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TrafficLightsManager" FILE="../../../../../../Skillbox/EUProjects/TrafficLightsManager/Content/Blueprints/BP_TrafficLightsManager.uasset" SILENT=true
+[2025.03.14-08.57.28:222][231]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_TrafficLightsManager
+[2025.03.14-08.57.28:222][231]LogSavePackage: Moving '../../../../../../Skillbox/EUProjects/TrafficLightsManager/Saved/BP_TrafficLightsManagerB2C025584F8C8764A0262DB7AABECC59.tmp' to '../../../../../../Skillbox/EUProjects/TrafficLightsManager/Content/Blueprints/BP_TrafficLightsManager.uasset'
+[2025.03.14-08.57.28:232][231]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.530 ms (total: 252.399 ms)
+[2025.03.14-08.57.28:273][231]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.14-08.57.28:273][231]LogContentValidation: Enabled validators:
+[2025.03.14-08.57.28:273][231]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.14-08.57.28:273][231]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.14-08.57.28:273][231]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.14-08.57.28:273][231]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.14-08.57.28:273][231]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.14-08.57.28:273][231]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.14-08.57.28:273][231]AssetCheck: /Game/Blueprints/BP_TrafficLightsManager Validating asset
+[2025.03.14-08.58.45:303][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.03.14-08.58.45:309][410]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.030
+[2025.03.14-08.58.45:310][410]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_TrafficLightsManager] ([2] browsable assets)...
+[2025.03.14-08.58.45:310][410]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_TrafficLightsManager]
+[2025.03.14-08.58.45:316][410]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_TrafficLightsManager_Auto1
+[2025.03.14-08.58.45:316][410]LogSavePackage: Moving '../../../../../../Skillbox/EUProjects/TrafficLightsManager/Saved/BP_TrafficLightsManager_Auto167E2B8A24EF51DAF7EDAA8B0A2A428F1.tmp' to '../../../../../../Skillbox/EUProjects/TrafficLightsManager/Saved/Autosaves/Game/Blueprints/BP_TrafficLightsManager_Auto1.uasset'
+[2025.03.14-08.58.45:316][410]LogFileHelpers: Auto-saving content packages took 0.007
+[2025.03.14-08.59.01:905][460]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 676.321167
+[2025.03.14-08.59.02:905][463]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-08.59.02:905][463]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 676.987488, Update Interval: 307.231049
